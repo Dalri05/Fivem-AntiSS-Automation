@@ -1,0 +1,9 @@
+C:\Users\minef\OneDrive\Área de Trabalho\oficial version\oficial version\obj\x64\Debug\oficial version.csproj.AssemblyReference.cache
+C:\Users\minef\OneDrive\Área de Trabalho\oficial version\oficial version\obj\x64\Debug\oficial version.csproj.SuggestedBindingRedirects.cache
+C:\Users\minef\OneDrive\Área de Trabalho\oficial version\oficial version\obj\x64\Debug\oficial_version.Ghost2.resources
+C:\Users\minef\OneDrive\Área de Trabalho\oficial version\oficial version\obj\x64\Debug\oficial_version.Ghost3.resources
+C:\Users\minef\OneDrive\Área de Trabalho\oficial version\oficial version\obj\x64\Debug\oficial_version.GhostAlert.resources
+C:\Users\minef\OneDrive\Área de Trabalho\oficial version\oficial version\obj\x64\Debug\oficial_version.Ghost1.resources
+C:\Users\minef\OneDrive\Área de Trabalho\oficial version\oficial version\obj\x64\Debug\oficial_version.Properties.Resources.resources
+C:\Users\minef\OneDrive\Área de Trabalho\oficial version\oficial version\obj\x64\Debug\oficial version.csproj.GenerateResource.cache
+C:\Users\minef\OneDrive\Área de Trabalho\oficial version\oficial version\obj\x64\Debug\oficial version.csproj.CoreCompileInputs.cache

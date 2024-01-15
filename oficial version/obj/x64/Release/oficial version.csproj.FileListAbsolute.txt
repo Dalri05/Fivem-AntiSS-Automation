@@ -1,0 +1,41 @@
+C:\Users\minef\Downloads\oficial version\oficial version\bin\x64\Release\oficial version.exe.config
+C:\Users\minef\Downloads\oficial version\oficial version\bin\x64\Release\oficial version.exe
+C:\Users\minef\Downloads\oficial version\oficial version\bin\x64\Release\oficial version.pdb
+C:\Users\minef\Downloads\oficial version\oficial version\bin\x64\Release\DiscordMessenger.dll
+C:\Users\minef\Downloads\oficial version\oficial version\bin\x64\Release\Siticone.Desktop.UI.dll
+C:\Users\minef\Downloads\oficial version\oficial version\obj\x64\Release\oficial version.csproj.AssemblyReference.cache
+C:\Users\minef\Downloads\oficial version\oficial version\obj\x64\Release\oficial version.csproj.SuggestedBindingRedirects.cache
+C:\Users\minef\Downloads\oficial version\oficial version\obj\x64\Release\oficial_version.Ghost2.resources
+C:\Users\minef\Downloads\oficial version\oficial version\obj\x64\Release\oficial_version.GhostAlert.resources
+C:\Users\minef\Downloads\oficial version\oficial version\obj\x64\Release\oficial_version.Ghost1.resources
+C:\Users\minef\Downloads\oficial version\oficial version\obj\x64\Release\oficial_version.Properties.Resources.resources
+C:\Users\minef\Downloads\oficial version\oficial version\obj\x64\Release\oficial version.csproj.GenerateResource.cache
+C:\Users\minef\Downloads\oficial version\oficial version\obj\x64\Release\oficial version.csproj.CoreCompileInputs.cache
+C:\Users\minef\Downloads\oficial version\oficial version\obj\x64\Release\oficial version.csproj.CopyComplete
+C:\Users\minef\Downloads\oficial version\oficial version\obj\x64\Release\oficial version.exe
+C:\Users\minef\Downloads\oficial version\oficial version\obj\x64\Release\oficial version.pdb
+C:\Users\minef\Downloads\oficial version\oficial version\bin\x64\Release\Newtonsoft.Json.dll
+C:\Users\minef\Downloads\oficial version\oficial version\bin\x64\Release\Newtonsoft.Json.xml
+C:\Users\minef\Downloads\oficial version\oficial version\obj\x64\Release\oficial_version.Ghost3.resources
+C:\Users\minef\OneDrive\Área de Trabalho\oficial version\oficial version\obj\x64\Release\oficial version.csproj.AssemblyReference.cache
+C:\Users\minef\OneDrive\Área de Trabalho\oficial version\oficial version\obj\x64\Release\oficial version.csproj.SuggestedBindingRedirects.cache
+C:\Users\minef\OneDrive\Área de Trabalho\oficial version\oficial version\bin\x64\Release\oficial version.exe.config
+C:\Users\minef\OneDrive\Área de Trabalho\oficial version\oficial version\bin\x64\Release\oficial version.exe
+C:\Users\minef\OneDrive\Área de Trabalho\oficial version\oficial version\bin\x64\Release\oficial version.pdb
+C:\Users\minef\OneDrive\Área de Trabalho\oficial version\oficial version\bin\x64\Release\Newtonsoft.Json.xml
+C:\Users\minef\OneDrive\Área de Trabalho\oficial version\oficial version\bin\x64\Release\System.Buffers.xml
+C:\Users\minef\OneDrive\Área de Trabalho\oficial version\oficial version\bin\x64\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\minef\OneDrive\Área de Trabalho\oficial version\oficial version\bin\x64\Release\System.Memory.xml
+C:\Users\minef\OneDrive\Área de Trabalho\oficial version\oficial version\bin\x64\Release\System.Numerics.Vectors.xml
+C:\Users\minef\OneDrive\Área de Trabalho\oficial version\oficial version\bin\x64\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\minef\OneDrive\Área de Trabalho\oficial version\oficial version\obj\x64\Release\oficial_version.Ghost2.resources
+C:\Users\minef\OneDrive\Área de Trabalho\oficial version\oficial version\obj\x64\Release\oficial_version.Ghost3.resources
+C:\Users\minef\OneDrive\Área de Trabalho\oficial version\oficial version\obj\x64\Release\oficial_version.Ghost1.resources
+C:\Users\minef\OneDrive\Área de Trabalho\oficial version\oficial version\obj\x64\Release\oficial_version.Properties.Resources.resources
+C:\Users\minef\OneDrive\Área de Trabalho\oficial version\oficial version\obj\x64\Release\oficial version.csproj.GenerateResource.cache
+C:\Users\minef\OneDrive\Área de Trabalho\oficial version\oficial version\obj\x64\Release\oficial version.csproj.CoreCompileInputs.cache
+C:\Users\minef\OneDrive\Área de Trabalho\oficial version\oficial version\obj\x64\Release\oficial version.csproj.Fody.CopyLocal.cache
+C:\Users\minef\OneDrive\Área de Trabalho\oficial version\oficial version\obj\x64\Release\oficial version.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\minef\OneDrive\Área de Trabalho\oficial version\oficial version\obj\x64\Release\oficial version.csproj.CopyComplete
+C:\Users\minef\OneDrive\Área de Trabalho\oficial version\oficial version\obj\x64\Release\oficial version.exe
+C:\Users\minef\OneDrive\Área de Trabalho\oficial version\oficial version\obj\x64\Release\oficial version.pdb
