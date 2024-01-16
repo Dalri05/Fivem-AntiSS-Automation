@@ -2,7 +2,7 @@
   <b> Olá👋, Aqui vai um preview do meu sistema de bypass feito em c#.</b><br>
 
 ```csharp
-Este projeto é um sistema de "bypass", um sistema anti telagem para quem usa cheats, ele possui vários sistemas interessantes além de seu funcionamento, um sistema de user login feito via keyauth, logs de login para webhooks do discord, textos variáveis onde mostra no menu principal oque esta sendo feito em cada processo, duração de key e muito mais.
+Este projeto é um sistema de "bypass", um sistema anti telagem para quem usa cheats, ele possui vários sistemas interessantes além de seu funcionamento, um sistema de user login feito via keyauth, streamode (não aparece quando você transmite sua tela), logs de login para webhooks do discord, textos variáveis onde mostra no menu principal oque esta sendo feito em cada processo, duração de key e muito mais.
 ```
 
 <div align="center">
