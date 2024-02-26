@@ -6,16 +6,16 @@ Este projeto é um sistema de "bypass", um sistema anti telagem para quem usa ch
 ```
 
 <div align="center">
-  <img  src="https://cdn.discordapp.com/attachments/1196471700813004892/1196472428990312508/image.png?ex=65b7c0c8&is=65a54bc8&hm=353fa13820d2cad9bedc8a9a3682a7da4908efac76918d68d6a3d4ce1f452fd6&"
+  <img  src="https://cdn.discordapp.com/attachments/1196471700813004892/1196472428990312508/image.png?ex=65e5e548&is=65d37048&hm=c9c4d2c69a957ce971355c44b3bf3d3bc9f3679c00e873629a10d3c5ca9fe2ca&"
        alt="preview" /></a>
 </div>
 
 <div align="center">
-  <img  src="https://media.discordapp.net/attachments/1196471700813004892/1196472571705704448/image.png?ex=65b7c0ea&is=65a54bea&hm=358d5d654e0dd55a1648f47aeaa6a616a8580e648dbc1b3b89b6f8e16caa2343&=&format=webp&quality=lossless"
+  <img  src="https://cdn.discordapp.com/attachments/1196471700813004892/1196472571705704448/image.png?ex=65e5e56a&is=65d3706a&hm=fec3a48a379374b484a8b1406aa28a45dfabe2a2e9f56aa573171c9c6f2f7dba&"
        alt="preview" /></a>
 </div>
 
 <div align="center">
-  <img  src="https://cdn.discordapp.com/attachments/1196471700813004892/1196472664588570765/image.png?ex=65b7c100&is=65a54c00&hm=f920e4f76b811fb7f5431129a9044e88a5e60b3b3de9b4918f16d0b1c5572235&"
+  <img  src="https://cdn.discordapp.com/attachments/1196471700813004892/1196472664588570765/image.png?ex=65e5e580&is=65d37080&hm=0712ff56ff3ceba35489d22df97aff3e63028e213b5251faa9bc69db1558e1da&"
        alt="preview" /></a>
 </div>
